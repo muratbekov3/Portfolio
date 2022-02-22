@@ -60,6 +60,9 @@ font-weight:700;
 letter-spacing:1.4px;
 text-transform:uppercase;
 margin-bottom:16px;
+@media screen and (max-width:480px){
+    font-size:15px;
+}
 `
 
 export const Heading = styled.h1`
