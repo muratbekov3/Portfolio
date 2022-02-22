@@ -6,7 +6,6 @@ export const homeObjOne = {
     topLine:'Akylbek Muratbek uulu',
     headLine:'About me',
     description:` I'm a student, working toward my degree and looking for ways to put my new knowledge and skills to use in a work environment.`,
-    buttonLabel:'Get started',
     imgStart:false,
     img:require('../../images/svg-8.svg'),
     alt:'Car',
@@ -29,7 +28,6 @@ export const homeObjTwo = {
     incorporating a range of technologies. Aspiring to combine broad
     background with strong technical skills to excel as a Front-End
     Developer. `,
-    buttonLabel:'Learn more',
     imgStart:true,
     img:require('../../images/svg-2.svg'),
     alt:'Piggybank',
