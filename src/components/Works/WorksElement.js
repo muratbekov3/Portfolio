@@ -10,11 +10,11 @@ align-items:center;
 background:#010606;
 
 @media screen and (max-width:768px){
-    height:2200px;
+    height:2000px;
 }
 
 @media screen and (max-width:480px){
-    height:2250px;
+    height:2050px;
 }
 `
 
