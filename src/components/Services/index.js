@@ -2,7 +2,7 @@ import React from 'react'
 import Icon1 from '../../images/javascript.png'
 import Icon2 from '../../images/React-icon.svg.png'
 import Icon3 from '../../images/html.png'
-import Icon4 from '../../images/css.png'
+import Icon4 from '../../images/CSS3.png'
 import Icon5 from '../../images/node2.png'
 import Icon6 from '../../images/mongo1.png'
 import {ServicesContainer,

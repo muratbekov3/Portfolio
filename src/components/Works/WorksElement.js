@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import {Link} from 'react-router-dom'
 
 export const ServicesContainer = styled.div`
-height:600px; 
+height:850px; 
 display:flex;
 flex-direction:column;
 justify-content:center;
@@ -22,7 +22,7 @@ export const ServicesWrapper = styled.div`
 max-width:1000px;
 margin:0 auto;
 display:grid;
-grid-template-columns:1fr 1fr 1fr 1fr;
+grid-template-columns:1fr 1fr 1fr;
 align-items:center;
 grid-gap:16px;
 padding: 0 50px;
